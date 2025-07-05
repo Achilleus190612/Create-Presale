@@ -854,7 +854,7 @@
                                                             height: "20px",
                                                             src: N,
                                                             alt: ""
-                                                        }), " ", "EYC"]
+                                                        }), " ", "PARA"]
                                                     })]
                                                 })]
                                             }), Object(h.jsx)(u.a, {
